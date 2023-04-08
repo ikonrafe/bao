@@ -13,6 +13,7 @@ import json
 # Define server ID to send messages to
 
 server_id = input("Masukkan server ID: ")
+print(f"Server ID yang dimasukkan adalah {server_id}")
 
 # Read messages from txt file and store them in a list
 
